@@ -31,15 +31,15 @@ Características principais:
 
     - 4.2. Bibliotecas
 
-        - include <stdio.h>  - // É uma biblioteca para entrada e saída padrão, usada para imprimir na tela (printf) e ler do teclado (scanf).
-        - include <stdlib.h>  - // É uma biblioteca que contém funções para alocação de memória, conversões e controle de processos, como malloc, free e atoi.
-        - include <math.h>  - // É uma biblioteca padrão da linguagem C que fornece funções matemáticas para realizar cálculos mais complexos do que os operadores básicos (+, -, *, /). Oferece funções matemáticas avançadas como potência, raiz quadrada e funções trigonométricas.
-        - include <string.h>  - // É uma biblioteca que fornece funções para manipulação de strings, incluindo cópia, concatenação e comparação de textos.
-        - include <ctype.h>  - // É uma biblioteca que contém funções para testar e converter caracteres, como verificar se é letra ou número e converter maiúsculas/minúsculas.
-        - include <time.h>  - // É uma biblioteca que fornece funções para manipulação de data e hora, incluindo obtenção do tempo atual e medição de intervalos.
-        - include <stdbool.h>  - // É uma biblioteca que define o tipo booleano em C, permitindo usar true e false para valores lógicos.
-        - include <limits.h>  - // É uma biblioteca que declara constantes que indicam os limites máximos e mínimos dos tipos primitivos da linguagem.
-        - include <errno.h>  - // É uma biblioteca que contém macros para identificar códigos de erro gerados por chamadas de sistema e funções da biblioteca.
+        - include <stdio.h> - // É uma biblioteca para entrada e saída padrão, usada para imprimir na tela (printf) e ler do teclado (scanf).
+        - include <stdlib.h> - // É uma biblioteca que contém funções para alocação de memória, conversões e controle de processos, como malloc, free e atoi.
+        - include <math.h> - // É uma biblioteca padrão da linguagem C que fornece funções matemáticas para realizar cálculos mais complexos do que os operadores básicos (+, -, *, /). Oferece funções matemáticas avançadas como potência, raiz quadrada e funções trigonométricas.
+        - include <string.h> - // É uma biblioteca que fornece funções para manipulação de strings, incluindo cópia, concatenação e comparação de textos.
+        - include <ctype.h> - // É uma biblioteca que contém funções para testar e converter caracteres, como verificar se é letra ou número e converter maiúsculas/minúsculas.
+        - include <time.h> - // É uma biblioteca que fornece funções para manipulação de data e hora, incluindo obtenção do tempo atual e medição de intervalos.
+        - include <stdbool.h> - // É uma biblioteca que define o tipo booleano em C, permitindo usar true e false para valores lógicos.
+        - include <limits.h> - // É uma biblioteca que declara constantes que indicam os limites máximos e mínimos dos tipos primitivos da linguagem.
+        - include <errno.h> - // É uma biblioteca que contém macros para identificar códigos de erro gerados por chamadas de sistema e funções da biblioteca.
 
     - 4.3. Ponto de entrada de execução de um código em C
 
