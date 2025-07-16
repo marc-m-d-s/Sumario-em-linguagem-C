@@ -4,7 +4,7 @@ A linguagem C é uma linguagem de programação de nível médio, ou seja, ela f
 
 Características principais:
 
-- Simples, poderosa e rápida;
+- Simples, poderosa e rápida.
 - Portável entre plataformas (Unix, Windows, Linux, microcontroladores).
 - Ideal para sistemas operacionais, drivers, compiladores e jogos.
 
