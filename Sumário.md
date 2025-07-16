@@ -4,18 +4,18 @@ A linguagem C é uma linguagem de programação de nível médio, ou seja, ela f
 
 Características principais:
 
-- Simples, poderosa e rápida.
-- Portável entre plataformas (Unix, Windows, Linux, microcontroladores).
-- Ideal para sistemas operacionais, drivers, compiladores e jogos.
+    - Simples, poderosa e rápida.
+    - Portável entre plataformas (Unix, Windows, Linux, microcontroladores).
+    - Ideal para sistemas operacionais, drivers, compiladores e jogos.
 
 # 2. História
 
-1969 - 1972 - Criada por Dennis Ritchie nos Laboratórios Bell (EUA), evoluindo da linguagem B.
-1973 - O sistema operacional UNIX começou a ser reescrito em C (antes era Assembly).
-1978 - Publicado o livro clássico “The C Programming Language” por Kernighan e Ritchie.
-1989 - ANSI padroniza o C como ANSI C (C89).
-1999 - Surge o padrão C99 com novas funcionalidades.
-2011 e 2018	Padrões C11 e C18 introduzem melhorias modernas.
+    - 1969 - 1972 - Criada por Dennis Ritchie nos Laboratórios Bell (EUA), evoluindo da linguagem B.
+    - 1973 - O sistema operacional UNIX começou a ser reescrito em C (antes era Assembly).
+    - 1978 - Publicado o livro clássico “The C Programming Language” por Kernighan e Ritchie.
+    - 1989 - ANSI padroniza o C como ANSI C (C89).
+    - 1999 - Surge o padrão C99 com novas funcionalidades.
+    - 2011 e 2018	Padrões C11 e C18 introduzem melhorias modernas.
 
 # 3. Conceitos Básicos
 
