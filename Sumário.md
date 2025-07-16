@@ -10,7 +10,7 @@ Características principais:
 
 # 2. História
 
-1969–1972 - Criada por Dennis Ritchie nos Laboratórios Bell (EUA), evoluindo da linguagem B.
+1969 - 1972 - Criada por Dennis Ritchie nos Laboratórios Bell (EUA), evoluindo da linguagem B.
 1973 - O sistema operacional UNIX começou a ser reescrito em C (antes era Assembly).
 1978 - Publicado o livro clássico “The C Programming Language” por Kernighan e Ritchie.
 1989 - ANSI padroniza o C como ANSI C (C89).
