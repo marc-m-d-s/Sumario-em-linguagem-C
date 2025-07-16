@@ -1,10 +1,8 @@
-# Sumário de Programação em C
+# Sobre
 
 Este repositório contém um sumário em constante atualização sobre os principais conceitos da linguagem de programação C.
 
 O objetivo é organizar, de forma clara e prática, os tópicos essenciais da linguagem, facilitando o aprendizado progressivo e servindo como base para criação de uma futura biblioteca modular em C.
-
-# Sobre
 
 Este sumário está sendo construído à medida que os estudos avançam, incluindo:
 
