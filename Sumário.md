@@ -54,6 +54,7 @@ Características principais:
     - 4.5. Caracteres
 
         - \n - // É um caractere especial de escape que representa uma quebra de linha. Faz com que o cursor vá para a linha de baixo depois de imprimir o texto.
+        - \t - // É um caractere de escape que representa uma tabulação horizontal (tab). Ele serve para inserir um espaço em branco equivalente ao pressionar a tecla TAB no teclado, geralmente avançando o cursor para a próxima coluna de tabulação.
         - "Olá, mundo!\n" - // É uma string, ou seja, uma sequência de caracteres entre aspas duplas. É o que será exibido na tela. O conteúdo aqui é: Olá, mundo!.
         - (;) - // Finaliza a instrução. Toda linha de código em C deve terminar com ponto e vírgula (;), a menos que esteja abrindo um bloco ({).
         - & (e comercial) - // Antes do nome da variável serve para obter o endereço de memória da variável que receberá o dado lido.
