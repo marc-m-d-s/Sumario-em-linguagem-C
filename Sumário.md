@@ -43,7 +43,7 @@ Características principais:
 
     - 4.3. Ponto de entrada de execução de um código em C
 
-        int main() {// Código aquireturn 0;}
+        int main() {// Código aqui // return 0;}
 
     - 4.4. Variáveis
 
